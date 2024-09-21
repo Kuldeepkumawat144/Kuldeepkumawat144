@@ -10,6 +10,16 @@ I’m a passionate **Product Engineer** based in Ajmer, Rajasthan, currently wor
 - **☁️ Cloud Services:** AWS
 - **🛠️ Tools & Technologies:** Docker, Git, CI/CD (Jenkins), MySQL, ReactJS, PureScript, Haskell
 
+## 💼 Experience
+
+### Nammayatri (April 2024 - Present)
+- **Role:** Product Engineer
+- **Location:** Bengaluru
+- **Responsibilities:**
+  - Currently employed as a Product Engineer, responsible for both frontend and backend development.
+  - Led the development of the complete Ambulance Boarding and Ride Flow for YatriSaathi in Kolkata using PureScript for frontend and Haskell for backend development, including designing user-friendly interfaces and implementing robust backend APIs.
+  - Collaborated closely with stakeholders and business partners to gather requirements, refine project scopes, and ensure timely delivery of features and enhancements.
+
 ## 🚀 Projects
 
 ### [AWS CI/CD](https://github.com/Kuldeepkumawat144/python_project_lpu)
