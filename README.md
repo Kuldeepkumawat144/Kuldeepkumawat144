@@ -30,16 +30,8 @@ I’m a passionate **Product Engineer** based in Ajmer, Rajasthan, currently wor
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeepkumawat144&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuldeepkumawat144&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Most used languages" />
-</div>
-
-## 📊 Pull Requests Contributions
-
-<div align="center">
-  <img src="https://github.com/Kuldeepkumawat144/Kuldeepkumawat144/raw/output/github-contribution-grid-snake.svg" alt="Contribution Chart" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuldeepkumawat144&show_icons=true&theme=dracula)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Kuldeepkumawat144&theme=dracula)
 
 ## 📫 Connect with Me
 
