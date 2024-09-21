@@ -5,7 +5,7 @@ I’m a passionate **Product Engineer** based in Ajmer, Rajasthan, currently wor
 ## 🌟 About Me
 
 - **👨‍💻 Current Role:** Product Engineer at Nammayatri
-- **📚 Education:** B.Tech in Computer Engineering, LPU (CGPA: 8.18)
+- **📚 Education:** B.Tech in Computer Engineering, LPU
 - **💻 Programming Languages:** C, C++, Python
 - **☁️ Cloud Services:** AWS
 - **🛠️ Tools & Technologies:** Docker, Git, CI/CD (Jenkins), MySQL, ReactJS, PureScript, Haskell
@@ -42,6 +42,10 @@ I’m a passionate **Product Engineer** based in Ajmer, Rajasthan, currently wor
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuldeepkumawat144&show_icons=true&theme=dracula)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Kuldeepkumawat144&theme=dracula)
+
+## 👁️ Viewer Count
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kuldeepkumawat144&color=brightgreen)
 
 ## 📫 Connect with Me
 
