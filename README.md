@@ -13,7 +13,7 @@ I’m a passionate **Product Engineer** based in Ajmer, Rajasthan, currently wor
 ## 💼 Experience
 
 ### Nammayatri (April 2024 - Present)
-- **Role:** Product Engineer
+- **Role:** Associate Software Engineer
 - **Location:** Bengaluru
 - **Responsibilities:**
   - Currently employed as a Product Engineer, responsible for both frontend and backend development.
