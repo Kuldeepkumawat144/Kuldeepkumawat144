@@ -4,7 +4,7 @@ I’m a passionate **Product Engineer** based in Ajmer, Rajasthan, currently wor
 
 ## 🌟 About Me
 
-- **👨‍💻 Current Role:** Product Engineer at Nammayatri
+- **👨‍💻 Current Role:** Associate Software Engineer at Nammayatri
 - **📚 Education:** B.Tech in Computer Engineering, LPU
 - **💻 Programming Languages:** C, C++, Python
 - **☁️ Cloud Services:** AWS
