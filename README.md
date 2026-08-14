@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kuldeep Kumawat!
 
-I’m a passionate **Product Engineer** based in Ajmer, Rajasthan, currently working at **Nammayatri** in Bengaluru. With a solid foundation in **Computer Engineering** from Lovely Professional University and hands-on experience in both frontend and backend development, I thrive on building impactful solutions.
+I’m a passionate **Associate Software Engineer** , currently working at **Nammayatri** in Bengaluru. With a solid foundation in **Computer Engineering** from Lovely Professional University and hands-on experience in both frontend and backend development, I thrive on building impactful solutions.
 
 ## 🌟 About Me
 
